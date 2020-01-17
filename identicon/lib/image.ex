@@ -1,4 +1,4 @@
-defmodule Image do
-  @moduledoc false
 
+defmodule Identicon.Image do
+  defstruct [hex: nil]
 end
